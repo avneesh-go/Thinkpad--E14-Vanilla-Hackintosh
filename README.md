@@ -5,4 +5,5 @@ An EFI Folder For Easy Installation of MacOS on the Thinkpad E14 Gen 1
 1. Updated EFI Folder to OpenCore 0.7.3
 2. Updated All Kexts
 3. Added Support For MacOS 12 Monterey
-4. Gui Boot Screen And Boot Chime is WIP
+4. Gui Boot Screen
+5. Boot Chime WIP 
